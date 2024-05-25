@@ -1,0 +1,14 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 45px;
+}
+
+.para{
+    padding-top: 40px;
+}
+.para p{
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: bold;
+}
